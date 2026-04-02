@@ -46,18 +46,4 @@ Currently building **Remedy** — an AI-powered study companion for KNUST studen
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=P-cyber162&theme=algolia&no-frame=true&row=1&column=7&margin-w=6)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=110&section=footer&animation=fadeIn"/>
-
 </div>
